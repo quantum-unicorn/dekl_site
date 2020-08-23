@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://compassionate-brown-27cc7e.netlify.app/blog/categories/</loc>
+    <loc>https://compassionate-brown-27cc7e.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compassionate-brown-27cc7e.netlify.app/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compassionate-brown-27cc7e.netlify.app/info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compassionate-brown-27cc7e.netlify.app/listek/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compassionate-brown-27cc7e.netlify.app/contact/</loc>
   </url>
   
   <url>
@@ -11,27 +27,11 @@
   </url>
   
   <url>
-    <loc>https://compassionate-brown-27cc7e.netlify.app/blog/info/</loc>
+    <loc>https://compassionate-brown-27cc7e.netlify.app/tags/</loc>
   </url>
   
   <url>
-    <loc>https://compassionate-brown-27cc7e.netlify.app/blog/listek/</loc>
-  </url>
-  
-  <url>
-    <loc>https://compassionate-brown-27cc7e.netlify.app/blog/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://compassionate-brown-27cc7e.netlify.app/blog/blog/</loc>
-  </url>
-  
-  <url>
-    <loc>https://compassionate-brown-27cc7e.netlify.app/blog/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://compassionate-brown-27cc7e.netlify.app/blog/blog/28_08_20_fifa/</loc>
+    <loc>https://compassionate-brown-27cc7e.netlify.app/blog/28_08_20_fifa/</loc>
   </url>
   
 </urlset>

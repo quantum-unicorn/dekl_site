@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DoubleDekl</title>
-    <link>https://compassionate-brown-27cc7e.netlify.app/blog/</link>
+    <link>https://compassionate-brown-27cc7e.netlify.app/</link>
     <description>Recent content on DoubleDekl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://compassionate-brown-27cc7e.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://compassionate-brown-27cc7e.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Informace</title>
-      <link>https://compassionate-brown-27cc7e.netlify.app/blog/info/</link>
+      <link>https://compassionate-brown-27cc7e.netlify.app/info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compassionate-brown-27cc7e.netlify.app/blog/info/</guid>
+      <guid>https://compassionate-brown-27cc7e.netlify.app/info/</guid>
       <description>Otevírací doba          Dekl Restaurace Pá-So 18:00-00:00   Dekl Bar Čt-So 20:00-02:00    Adresa V Bytovkách 273
 Králíky
 561 69
@@ -25,19 +25,19 @@ Dvě místnosti bla bla</description>
     
     <item>
       <title>Jídla / Nápoje</title>
-      <link>https://compassionate-brown-27cc7e.netlify.app/blog/listek/</link>
+      <link>https://compassionate-brown-27cc7e.netlify.app/listek/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compassionate-brown-27cc7e.netlify.app/blog/listek/</guid>
+      <guid>https://compassionate-brown-27cc7e.netlify.app/listek/</guid>
       <description>Dekl Restaurace Dekl Bar</description>
     </item>
     
     <item>
       <title>Kontakty</title>
-      <link>https://compassionate-brown-27cc7e.netlify.app/blog/contact/</link>
+      <link>https://compassionate-brown-27cc7e.netlify.app/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compassionate-brown-27cc7e.netlify.app/blog/contact/</guid>
+      <guid>https://compassionate-brown-27cc7e.netlify.app/contact/</guid>
       <description>Rezervace tel: 123 456 789
 Vlastník tel: 456 789 123
 email: vlastnik@doubledekl.cz</description>
@@ -45,10 +45,10 @@ email: vlastnik@doubledekl.cz</description>
     
     <item>
       <title>XBox Fifa soutěž</title>
-      <link>https://compassionate-brown-27cc7e.netlify.app/blog/blog/28_08_20_fifa/</link>
+      <link>https://compassionate-brown-27cc7e.netlify.app/blog/28_08_20_fifa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compassionate-brown-27cc7e.netlify.app/blog/blog/28_08_20_fifa/</guid>
+      <guid>https://compassionate-brown-27cc7e.netlify.app/blog/28_08_20_fifa/</guid>
       <description>Přijďte si v pátek do Dekl baru zahrát fifu a soutěžit o zajímavé ceny.</description>
     </item>
     
