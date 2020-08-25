@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DoubleDekl</title>
+    <title>Dekl</title>
     <link>https://compassionate-brown-27cc7e.netlify.app/</link>
-    <description>Recent content on DoubleDekl</description>
+    <description>Recent content on Dekl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,10 +16,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://compassionate-brown-27cc7e.netlify.app/info/</guid>
-      <description>Otevírací doba          Dekl Restaurace Pá-So 18:00-00:00   Dekl Bar Čt-So 20:00-02:00    Adresa V Bytovkách 273
+      <description>Otevírací doba          Dekl Restaurace Pá-So 18:00-00:00   Dekl Bar Čt-So 20:00-02:00     Adresa V Bytovkách 273
 Králíky
 561 69
-O nás Jsme rodinný podnik bla bla bla
+Kontakty   O nás Jsme rodinný podnik bla bla bla
 Dvě místnosti bla bla</description>
     </item>
     
@@ -29,7 +29,7 @@ Dvě místnosti bla bla</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://compassionate-brown-27cc7e.netlify.app/listek/</guid>
-      <description>Dekl Restaurace Dekl Bar</description>
+      <description>Dekl Restaurace  Dekl Bar</description>
     </item>
     
     <item>
@@ -39,17 +39,18 @@ Dvě místnosti bla bla</description>
       
       <guid>https://compassionate-brown-27cc7e.netlify.app/contact/</guid>
       <description>Rezervace tel: 123 456 789
-Vlastník tel: 456 789 123
+ Vlastník tel: 456 789 123
 email: vlastnik@doubledekl.cz</description>
     </item>
     
     <item>
-      <title>XBox Fifa soutěž</title>
-      <link>https://compassionate-brown-27cc7e.netlify.app/blog/28_08_20_fifa/</link>
+      <title>Znovuotevření baru</title>
+      <link>https://compassionate-brown-27cc7e.netlify.app/blog/15_08_20_otevreni_baru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compassionate-brown-27cc7e.netlify.app/blog/28_08_20_fifa/</guid>
-      <description>Přijďte si v pátek do Dekl baru zahrát fifu a soutěžit o zajímavé ceny.</description>
+      <guid>https://compassionate-brown-27cc7e.netlify.app/blog/15_08_20_otevreni_baru/</guid>
+      <description>Po dlouhé době a náročné rekonstrukci jsme nadšeni, že Vás můžeme opět pozvat do našeho baru!
+Přijďte ve Čt-So 20:00 do Dekl Baru a dejte si něco z našeho nápojového lístku nebo vodní dýmku dle denní nabídky.</description>
     </item>
     
   </channel>
